@@ -7,9 +7,9 @@
 ##### Decomposing Matrices
 ------
 ###### Algortihms focused on decomposing matrices inorder to solve for
-###### inverse matrix or solve linear equations.
+###### the inverse matrix or solve linear equations.
 ##### Integral Estimation
 ------
-###### Algorithm estimates integral of functions using numerical methods.
+###### Algorithm estimates integral of data using numerical methods.
 ###### Great for functions that are tough to integrate.
 
