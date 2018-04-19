@@ -10,5 +10,6 @@
 ------
 ###### I = estimate of the integral
 ##### Limitations
+------
 ###### Must have equally spaced x-value data points. The data set must have an 
 ###### equal number of x and y values
